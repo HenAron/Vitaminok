@@ -1,0 +1,27 @@
+body{
+    background: white;
+}
+table{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    width: 50%;
+    font-size: x-large;
+    text-align: justify;
+    background-color: gray;
+    color: black;
+}
+th{
+    width: 50%;
+    font-size: xx-large;
+    text-align: center;
+    background-color: gray;
+    color: black;
+}
+h1{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+}
